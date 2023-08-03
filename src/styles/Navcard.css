@@ -1,0 +1,5 @@
+.Navcard > span{
+    color: orangered;
+    position: relative;
+    bottom: 1vmax;
+}
